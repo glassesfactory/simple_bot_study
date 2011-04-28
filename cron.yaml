@@ -1,0 +1,11 @@
+cron:
+- description: update
+  url: /update
+  schedule: every 20 minutes
+  timezone: Asia/Tokyo
+  
+- description: reply
+  url: /reply
+  schedule: every 15 minutes
+  timezone: Asia/Tokyo
+  
