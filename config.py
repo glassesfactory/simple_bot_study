@@ -3,7 +3,7 @@ Created on 2011/04/23
 
 @author: glassesfactory
 '''
-CONSUMER_KEY='2fZRAIlaDntTr7tPuZ4Og'
-SECRET_KEY='r1u93xncZFQ7HZaNEDSCP1zQsABRV2IiupO8mNMI'
-ACCESS_TOKEN='289246578-VZNyMxaTK51HtWDkk2CyIC70X6fw7ZdFqRoSiY'
-ACCESS_VERIFIER='WMVTNC8dzD5eIXicKfVhit7umgQuXqonEm4VGDvi1o'
+CONSUMER_KEY='こんしゅーまーきー'
+SECRET_KEY='コンシューマー用シークレットキー'
+ACCESS_TOKEN='アクセストークン'
+ACCESS_VERIFIER='トークンヴェり(ry'
